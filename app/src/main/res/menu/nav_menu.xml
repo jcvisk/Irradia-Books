@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home" />
+
+    <item android:title="@string/secciones">
+        <menu>
+            <item
+                android:id="@+id/nav_responsabilidad"
+                android:icon="@drawable/ic_baseline_supervisor_account_24"
+                android:title="@string/responsabilidad" />
+            <item
+                android:id="@+id/nav_paciencia"
+                android:icon="@drawable/ic_baseline_self_improvement_24"
+                android:title="@string/paciencia" />
+            <item
+                android:id="@+id/nav_respeto"
+                android:icon="@drawable/ic_baseline_star_24"
+                android:title="@string/respeto" />
+            <item
+                android:id="@+id/nav_amistad"
+                android:icon="@drawable/ic_baseline_emoji_people_24"
+                android:title="@string/amistad" />
+            <item
+                android:id="@+id/nav_cooperacion"
+                android:icon="@drawable/ic_baseline_escalator_warning_24"
+                android:title="@string/cooperacion" />
+            <item
+                android:id="@+id/nav_orden"
+                android:icon="@drawable/ic_baseline_auto_awesome_mosaic_24"
+                android:title="@string/orden" />
+            <item
+                android:id="@+id/nav_otros"
+                android:icon="@drawable/ic_baseline_scatter_plot_24"
+                android:title="@string/otros" />
+        </menu>
+    </item>
+</menu>

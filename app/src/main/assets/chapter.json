@@ -1,0 +1,85 @@
+{
+  "chapters":
+  [
+    {
+      "id":  1,
+      "nombre": "Los primeros rayos de sol",
+      "descripcion": "Este es un test sobre la responsabilidad 2",
+      "idSeccion": "1",
+      "urlImagen": "https://myrepository.netlify.app/resource/images/LasBellasHistoriasDeLaBiblia/historia5.png",
+      "urlAudio": "https://myrepository.netlify.app/resource/music/LasBellasHistoriasDeLaBiblia/historia5.m4a"
+    },
+    {
+      "id":  2,
+      "nombre": "Del silencio surge un canto",
+      "descripcion": "En este episodio te invito a descubrir en qué día hizo Dios los peces y las aves.",
+      "idSeccion": "1",
+      "urlImagen": "https://myrepository.netlify.app/resource/images/LasBellasHistoriasDeLaBiblia/historia6.png",
+      "urlAudio": "https://myrepository.netlify.app/resource/music/LasBellasHistoriasDeLaBiblia/historia6.m4a"
+  },
+    {
+      "id":  3,
+      "nombre": "Aprecen los demás animales",
+      "descripcion": "¿Cuál es tu animal favorito? El mío es el león. ¿Sabes en qué día creó Dios al resto de los animales? Descúbrelo en esta narración.",
+      "idSeccion": "1",
+      "urlImagen": "https://myrepository.netlify.app/resource/images/LasBellasHistoriasDeLaBiblia/historia7.png",
+      "urlAudio": "https://myrepository.netlify.app/resource/music/LasBellasHistoriasDeLaBiblia/historia7.m4a"
+  },
+    {
+    "id":  4,
+    "nombre": "La primera comida de Adán",
+    "descripcion": "La comida de hoy en día puede ser muuuy rica, pero hubo un momento en la historia de la tierra en que la comida fue magníficamente deliciosa! ",
+    "idSeccion": "2",
+    "urlImagen": "https://myrepository.netlify.app/resource/images/LasBellasHistoriasDeLaBiblia/historia9.png",
+    "urlAudio": "https://myrepository.netlify.app/resource/music/LasBellasHistoriasDeLaBiblia/historia9.m4a"
+    },
+  {
+      "id":  5,
+      "nombre": "El jardín hogar del hombre",
+      "descripcion": "Descubre en esta historia como fue el primer hogar del hombre en este planeta.",
+      "idSeccion": "2",
+      "urlImagen": "https://myrepository.netlify.app/resource/images/LasBellasHistoriasDeLaBiblia/historia11.png",
+      "urlAudio": "https://myrepository.netlify.app/resource/music/LasBellasHistoriasDeLaBiblia/historia11.m4a"
+    },
+  {
+    "id":  6,
+    "nombre": "Un día para rememorar",
+    "descripcion": "¿Sabías que Dios nos dio un día especial para descansar y estar con él? Descubre en esta historia que día es ese.",
+    "idSeccion": "3",
+    "urlImagen": "https://myrepository.netlify.app/resource/images/LasBellasHistoriasDeLaBiblia/historia12.png",
+    "urlAudio": "https://myrepository.netlify.app/resource/music/LasBellasHistoriasDeLaBiblia/historia12.m4a"
+  },
+    {
+    "id":  7,
+    "nombre": "La primera equivocación",
+    "descripcion": "Has cometido errores? En esta historia conocerás como se cometió el primer error en la tierra.",
+    "idSeccion": "3",
+    "urlImagen": "https://myrepository.netlify.app/resource/images/LasBellasHistoriasDeLaBiblia/historia13.png",
+    "urlAudio": "https://myrepository.netlify.app/resource/music/LasBellasHistoriasDeLaBiblia/historia13.m4a"
+  },
+    {
+    "id":  8,
+    "nombre": "La prueba de amor",
+    "descripcion": "¿Por qué Dios no había permitido a Adán y Eva comer del fruto? ¿Por qué si les dio todo, les restringió ese árbol?",
+    "idSeccion": "4",
+    "urlImagen": "https://myrepository.netlify.app/resource/images/LasBellasHistoriasDeLaBiblia/historia14.png",
+    "urlAudio": "https://myrepository.netlify.app/resource/music/LasBellasHistoriasDeLaBiblia/historia14.m4a"
+  },
+    {
+    "id":  9,
+    "nombre": "El precio del pecado",
+    "descripcion": "En este episodio, sabremos cual fue el precio de un solo pecado. Acompáñame a escucharlo.",
+    "idSeccion": "5",
+    "urlImagen": "https://myrepository.netlify.app/resource/images/LasBellasHistoriasDeLaBiblia/historia15.png",
+    "urlAudio": "https://myrepository.netlify.app/resource/music/LasBellasHistoriasDeLaBiblia/historia15.m4a"
+  },
+    {
+      "id":  10,
+      "nombre": "Un destello de esperanza",
+      "descripcion": "No todo estaba perdido para Adán y Eva, ni para la humanidad, había algo que Dios tenia reservado para todos",
+      "idSeccion": "6",
+      "urlImagen": "https://myrepository.netlify.app/resource/images/LasBellasHistoriasDeLaBiblia/historia16.png",
+      "urlAudio": "https://myrepository.netlify.app/resource/music/LasBellasHistoriasDeLaBiblia/historia16.m4a"
+    }
+  ]
+}

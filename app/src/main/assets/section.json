@@ -1,0 +1,35 @@
+{
+  "sections":
+  [
+    {
+      "id":  1,
+      "nombre": "Responsabilidad",
+      "urlImagen": "https://picsum.photos/id/10/367/267"
+    },
+    {
+      "id":  2,
+      "nombre": "Paciencia",
+      "urlImagen": "https://picsum.photos/id/1000/367/267"
+    },
+    {
+      "id":  3,
+      "nombre": "Respeto",
+      "urlImagen": "https://picsum.photos/id/100/367/267"
+    },
+    {
+      "id":  4,
+      "nombre": "Amistad",
+      "urlImagen": "https://picsum.photos/id/1003/367/267"
+    },
+    {
+      "id":  5,
+      "nombre": "Cooperacion",
+      "urlImagen": "https://picsum.photos/id/1010/367/267"
+    },
+    {
+      "id":  6,
+      "nombre": "Orden",
+      "urlImagen": "https://picsum.photos/id/1011/367/267"
+    }
+  ]
+}

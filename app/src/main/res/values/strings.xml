@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Irradia Books</string>
+    <!--My Strings-->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="home">Home</string>
+    <string name="secciones">Secciones</string>
+    <string name="responsabilidad">Responsabilidad</string>
+    <string name="paciencia">Paciencia</string>
+    <string name="respeto">Respeto</string>
+    <string name="amistad">Amistad</string>
+    <string name="cooperacion">Cooperación</string>
+    <string name="orden">Orden</string>
+    <string name="otros">Otros</string>
+</resources>
